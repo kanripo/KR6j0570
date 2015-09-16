@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:10.047536
+#+DATE: 2015-08-30 20:35:15.810017
 #+TITLE: 大法炬陀羅尼經
 #+PROPERTY: CBETA_ID T21n1340
 #+PROPERTY: ID KR6j0570
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1340
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0570_T_000-0661a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0570_T_008-0693b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 大法炬陀羅尼經卷第八¶
+大法炬陀羅尼經卷第八¶
 ¶
 隋天竺三藏法師闍那崛多等譯¶
 
@@ -175,11 +174,7 @@
 知者。當知是受即無明使及以貪使憍慢使¶
 等。是三種使和合因緣故。能造作彼諸行業。¶
 
-19勸證品
-:PROPERTIES:
-:head: 《大法炬陀羅尼經》勸證品第十九之一
-:END:
-¶
+《大法炬陀羅尼經》勸證品第十九之一¶
 
 復次摩那婆。於意云何。我今問汝。隨汝意答。¶
 此陀羅尼修多羅。及陀羅尼法門。及三言教¶

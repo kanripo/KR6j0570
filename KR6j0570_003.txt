@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:09.878823
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:31
 #+TITLE: 大法炬陀羅尼經
 #+PROPERTY: CBETA_ID T21n1340
 #+PROPERTY: ID KR6j0570
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1340
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0570_T_000-0661a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0570_T_003-0670a> ¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 大法炬陀羅尼經卷第三¶
+大法炬陀羅尼經卷第三¶
 ¶
 隋天竺三藏法師闍那崛多等譯¶
 
@@ -49,8 +48,7 @@
 於水下。或經二日若三日。若十二十。若一¶
 月乃至一年。住於水中而能不死。然彼小兒¶
 漸漸長大即入大河。觀是河中所有水族眾¶
-生品類。了了分明。是兒後時身雄氣爽。水¶
-觀明利遂能入海。大海之中多諸異類。奇蟲¶
+生品類。了了分明。是兒後時身雄氣爽。水觀明利遂能入海。大海之中多諸異類。奇蟲¶
 怪獸巨魚妬龍。毒物雖多終莫能害。又見眾¶
 寶清澈分明。非餘凡人所能瞻覩。是人於是¶
 在大海中。具取珍寶造作眾事。凡有所欲隨¶
@@ -133,11 +131,7 @@
 如是精進故。必定當得三十二相。摩那婆。是¶
 為如來略說菩薩慈悲因緣也。¶
 
-7相好品
-:PROPERTIES:
-:head: 《大法炬陀羅尼經》相好品第七之一
-:END:
-¶
+* 《大法炬陀羅尼經》相好品第七之一¶
 
 阿難爾時無畏菩薩摩訶薩復白放光如來
 <pb:KR6j0570_T_003-0671b>¶

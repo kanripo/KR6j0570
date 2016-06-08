@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:10.013959
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:31
 #+TITLE: 大法炬陀羅尼經
 #+PROPERTY: CBETA_ID T21n1340
 #+PROPERTY: ID KR6j0570
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1340
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0570_T_000-0661a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0570_T_007-0688c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 大法炬陀羅尼經卷第七¶
+大法炬陀羅尼經卷第七¶
 ¶
 隋天竺三藏法師闍那崛多等譯¶
 
@@ -22,11 +21,7 @@
   * 忍成就品第十七¶
   * 證涅槃品第十八¶
 
-16智成就品
-:PROPERTIES:
-:head: 智成就品第十六
-:END:
-¶
+* 智成就品第十六¶
 
 佛告阿難。時彼眾中有一菩薩摩訶薩。名栴¶
 檀那。白放光如來應供正遍覺言。世尊。如佛¶
@@ -129,11 +124,7 @@
 功德事不生信者。我於是人亦常教攝終不¶
 放捨。是故汝等常應修學。¶
 
-17忍成就品
-:PROPERTIES:
-:head: 《大法炬陀羅尼經》忍成就品第十七
-:END:
-¶
+* 《大法炬陀羅尼經》忍成就品第十七¶
 
 爾時栴檀那菩薩復白放光佛言。世尊。云何
 <pb:KR6j0570_T_007-0690a>¶
@@ -269,11 +260,7 @@
 訶薩第八增上勝功德事。
 <pb:KR6j0570_T_007-0691b>¶
 
-18證涅槃品
-:PROPERTIES:
-:head: 《大法炬陀羅尼經》證涅槃品第十八之一
-:END:
-¶
+* 《大法炬陀羅尼經》證涅槃品第十八之一¶
 
 佛告阿難。爾時栴檀那菩薩摩訶薩。復白放¶
 光如來言。世尊。如來於此陀羅尼經。已說第¶

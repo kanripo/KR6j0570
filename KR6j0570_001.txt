@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:09.807264
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:31
 #+TITLE: 大法炬陀羅尼經
 #+PROPERTY: CBETA_ID T21n1340
 #+PROPERTY: ID KR6j0570
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1340
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0570_T_000-0661a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0570_T_001-0661a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1340¶
-
- 大法炬陀薩尼經卷第一¶
+No. 1340¶
+大法炬陀薩尼經卷第一¶
 ¶
 隋天竺三藏法師闍那崛多等譯¶
 
@@ -22,11 +21,7 @@ No.1340¶
   * 緣起品第一¶
   * 伏魔品第二¶
 
-1緣起品
-:PROPERTIES:
-:head: 緣起品第一
-:END:
-¶
+* 緣起品第一¶
 
 如是我聞。一時婆伽婆。在王舍城耆闍崛山¶
 中。與大比丘眾千二百五十人俱。皆阿羅漢。¶
@@ -320,11 +315,7 @@ No.1340¶
 得聞。亦非魔黨堪行斯事。若不能修習懷疑¶
 心者。當知此是魔之所化。¶
 
-2伏魔品
-:PROPERTIES:
-:head: 《大法炬陀羅尼經》伏魔品第二
-:END:
-¶
+* 《大法炬陀羅尼經》伏魔品第二¶
 
 佛告阿難。時彼諸菩薩摩訶薩眾。及彼九億¶
 諸聲聞眾等。皆以一心合十指掌。向放光佛
